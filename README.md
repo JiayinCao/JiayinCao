@@ -1,16 +1,21 @@
-### Hi there 👋
+![](banner.png)
 
-<!--
-**JiayinCao/JiayinCao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Jiayin Cao. I’m currently working at Naughty Dog as a graphics engineer. Prior to joining Naughty Dog, I used to work at Ubisoft Singapore and NVIDIA Shanghai before. My primary interest covers the following areas,
 
-Here are some ideas to get you started:
+- Real-time Rendering
+- Offline Rendering
+- GPGPU
+- GPU architecture
+- Mathematics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This place is my home for my spare time projects. Following are three open-source projects of mine that I worked on before,
+- [SORT](http://sort-renderer.com/) , a physically based offline renderer.
+- [TSL](https://jiayincao.github.io/Tiny-Shading-Language/) , a programmable shading language for CPU ray tracers.
+- [CUDA Ray Tracing](https://github.com/JiayinCao/Tiny-CUDA-RayTracer), this was my work in a Chinese national contest held by NVIDIA and it won first prize.
+
+To those who wants to connect, for whatever reason, please contact me through the following media,
+
+- [**Linkedin**](https://www.linkedin.com/in/caojiayin/)
+- [**Twitter**](https://twitter.com/Jiayin_Cao)
+- [**Email**](mailto:caojiayin1985@gmail.com)
+- [**Tech Blog**](https://agraphicsguy.wordpress.com/)
