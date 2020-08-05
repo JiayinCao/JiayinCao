@@ -1,4 +1,4 @@
-![](banner.png)
+![](https://raw.githubusercontent.com/JiayinCao/JiayinCao/master/banner.png)
 
 My name is Jiayin Cao. I’m currently working at Naughty Dog as a graphics engineer. Prior to joining Naughty Dog, I used to work at Ubisoft Singapore and NVIDIA Shanghai before. My primary interest covers the following areas,
 
