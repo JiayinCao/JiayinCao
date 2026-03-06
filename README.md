@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/JiayinCao/JiayinCao/master/banner.png)
 
-My name is Jiayin Cao. I’m currently working at NVIDIA as a senior devtech. Prior to joining NVIDIA, I used to work at Ready At Dawn, Naughty Dog, Ubisoft Singapore before. My primary interest covers the following areas,
+My name is Jiayin Cao. I’m currently working at NVIDIA as a principal devtech. Prior to joining NVIDIA, I used to work at Ready At Dawn, Naughty Dog, Ubisoft Singapore before. My primary interest covers the following areas,
 
 - Real-time Rendering
 - Offline Rendering
